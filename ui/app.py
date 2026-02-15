@@ -1,9 +1,10 @@
+import os
 import streamlit as st
 import requests
 
 
 st.title("Custom RAG system for PDF Q&A")
-API_URL = "http://localhost:8000"
+API_URL = os.getenv("API_URL", "http://localhost:8000")
 
 
 # File upload
