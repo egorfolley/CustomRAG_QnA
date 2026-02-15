@@ -5,7 +5,7 @@ A minimal Retrieval-Augmented Generation (RAG) system that ingests PDFs, builds 
 ### To Do
 
 * [X] Create a simple PDF ingestion code
-* [ ] Create functionality for query processing
+* [X] Create functionality for query processing
 * [ ] Implement retrieval system
 * [ ] Implement generation with prompt
 * [ ] Organize all into backend system
