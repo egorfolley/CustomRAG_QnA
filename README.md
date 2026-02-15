@@ -12,6 +12,7 @@ A minimal Retrieval-Augmented Generation (RAG) system that ingests PDFs, builds 
 * [X] Create functionality for query processing
 * [X] Implement retrieval system
 * [X] Implement generation with prompt
-* [ ] Organize all into backend system
+* [X] Organize all into backend system
 * [ ] Create simple UI on streamlit
-* [ ] Modify README and code comments
+* [ ] Dockerize
+* [ ] Modify README
