@@ -4,7 +4,7 @@ A minimal Retrieval-Augmented Generation (RAG) system that ingests PDFs, builds 
 
 ### Architecture
 
-![1771163546398](image/README/1771163546398.png)
+![Architecture](image/README/arch.png)
 
 ### To Do
 
