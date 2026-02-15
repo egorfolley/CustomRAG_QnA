@@ -2,6 +2,10 @@
 
 A minimal Retrieval-Augmented Generation (RAG) system that ingests PDFs, builds in-memory embeddings, and answers questions through a hybrid retrieval pipeline. The backend is a FastAPI service, and the UI is a Streamlit app.
 
+### Architecture
+
+![1771163546398](image/README/1771163546398.png)
+
 ### To Do
 
 * [X] Create a simple PDF ingestion code
